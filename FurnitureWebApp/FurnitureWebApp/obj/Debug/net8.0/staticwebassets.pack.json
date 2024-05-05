@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\arrow-1.png",
+      "PackagePath": "staticwebassets\\images\\arrow-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\images\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\img-2.png",
+      "PackagePath": "staticwebassets\\images\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\img-3.png",
+      "PackagePath": "staticwebassets\\images\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\img-4.png",
+      "PackagePath": "staticwebassets\\images\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\img-5.png",
+      "PackagePath": "staticwebassets\\images\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\img-6.png",
+      "PackagePath": "staticwebassets\\images\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\images\\twitter-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\images\\user-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurnitureWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FurnitureWebApp.props",
+      "PackagePath": "build\\FurnitureWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FurnitureWebApp.props",
+      "PackagePath": "buildMultiTargeting\\FurnitureWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FurnitureWebApp.props",
+      "PackagePath": "buildTransitive\\FurnitureWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
