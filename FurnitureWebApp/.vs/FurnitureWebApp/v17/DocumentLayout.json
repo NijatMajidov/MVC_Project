@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A485380C-2070-40C1-A1BA-3376869A3197}|FurnitureWebApp\\FurnitureWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\furniturewebapp\\furniturewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A485380C-2070-40C1-A1BA-3376869A3197}|FurnitureWebApp\\FurnitureWebApp.csproj|solutionrelative:furniturewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A485380C-2070-40C1-A1BA-3376869A3197}|FurnitureWebApp\\FurnitureWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\furniturewebapp\\furniturewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A485380C-2070-40C1-A1BA-3376869A3197}|FurnitureWebApp\\FurnitureWebApp.csproj|solutionrelative:furniturewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FurnitureWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FurnitureWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAOMAAAAAAAAAAAAAACsAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T20:59:50.501Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FurnitureWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\FurnitureWebApp\\FurnitureWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FurnitureWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T20:28:45.748Z",
-              "EditorCaption": ""
             }
           ]
         }
