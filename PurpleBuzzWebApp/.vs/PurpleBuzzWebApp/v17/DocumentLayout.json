@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\controllers\\worksingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\controllers\\worksingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|c:\\users\\user\\desktop\\mvc_project\\purplebuzzwebapp\\purplebuzzwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF09C0B7-0E85-42F5-B346-1BE019F91386}|PurpleBuzzWebApp\\PurpleBuzzWebApp.csproj|solutionrelative:purplebuzzwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Program.cs",
+              "RelativeToolTip": "PurpleBuzzWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:11:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\workSingle\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\Views\\workSingle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\workSingle\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzWebApp\\Views\\workSingle\\Index.cshtml",
+              "ViewState": "AQIAAI4BAAAAAAAAAAAqwJUBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:09:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "workSingle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Controllers\\workSingle.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\Controllers\\workSingle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Controllers\\workSingle.cs",
+              "RelativeToolTip": "PurpleBuzzWebApp\\Controllers\\workSingle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:09:46.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzWebApp\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAqwLQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:59:41.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "PurpleBuzzWebApp\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:50:03.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "PurpleBuzzWebApp\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:49:00.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:44:51.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_Project\\PurpleBuzzWebApp\\PurpleBuzzWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzzWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAqwOIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:46:16.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
