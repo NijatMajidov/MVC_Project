@@ -1,4 +1,6 @@
-﻿   <!-- Start Banner Hero -->
+﻿@using PurpleBuzzWebApp.ViewModels;
+@model HomeVM;
+   <!-- Start Banner Hero -->
 <div class="banner-wrapper bg-light">
     <div id="index_banner" class="banner-vertical-center-index container-fluid pt-5">
 
@@ -21,7 +23,7 @@
                             <p class="banner-body text-muted py-3 mx-0 px-0">
                                 Purple Buzz is a corporate HTML template with Bootstrap 5 Beta 1. This CSS template is 100% free to download provided by <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>. Total 6 HTML pages included in this template. Icon fonts by <a rel="nofollow" href="https://boxicons.com/" target="_blank">Boxicons</a>. Photos are from <a rel="nofollow" href="https://unsplash.com/" target="_blank">Unsplash</a> and <a rel="nofollow" href="https://icons8.com/" target="_blank">Icons 8</a>.
                             </p>
-                            <a class="banner-button btn rounded-pill btn-outline-primary btn-lg px-4" href="#" role="button">Get Started</a>
+                            <a class="banner-button btn rounded-pill btn-outline-primary btn-lg px-4" asp-action="index" asp-controller="home" role="button">Get Started</a>
                         </div>
                     </div>
 
@@ -36,7 +38,7 @@
                             <p class="banner-body text-muted py-3">
                                 You are not allowed to re-distribute this Purple Buzz HTML template as a downloadable ZIP file on any kind of Free CSS collection websites. This is strongly prohibited. Please contact TemplateMo for more information.
                             </p>
-                            <a class="banner-button btn rounded-pill btn-outline-primary btn-lg px-4" href="#" role="button">Get Started</a>
+                            <a class="banner-button btn rounded-pill btn-outline-primary btn-lg px-4" asp-action="index" asp-controller="home" role="button">Get Started</a>
                         </div>
                     </div>
 
@@ -54,7 +56,7 @@
                                 irure dolor in reprehenderit in voluptate velit esse cillum
                                 dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
                             </p>
-                            <a class="banner-button btn rounded-pill btn-outline-primary btn-lg px-4" href="#" role="button">Get Started</a>
+                            <a class="banner-button btn rounded-pill btn-outline-primary btn-lg px-4" asp-action="index" asp-controller="home" role="button">Get Started</a>
                         </div>
                     </div>
 
@@ -115,22 +117,25 @@
 <section class="container overflow-hidden py-5">
     <div class="row gx-5 gx-sm-3 gx-lg-5 gy-lg-5 gy-3 pb-3 projects">
 
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="service card-img" src="./assets/img/services-01.jpg" alt="Card image">
+        @foreach (var item in Model.Cards)
+        {
+            <!-- Start Recent Work -->
+            <div class="col-xl-3 col-md-4 col-sm-6 project ui branding">
+                <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
+                <img class="service card-img" src="~/assets/img/@item.bgPhoto" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">UI/UX design</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
+                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">@item.Name</span>
+                        <p class="card-text">@item.Description</p>
                     </div>
                 </div>
             </a>
-        </div><!-- End Recent Work -->
+        </div>
+        }<!-- End Recent Work -->
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-02.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-02.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Social Media</span>
@@ -142,7 +147,7 @@
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project branding">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-03.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-03.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Marketing</span>
@@ -154,7 +159,7 @@
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-04.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-04.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Graphic</span>
@@ -166,7 +171,7 @@
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-05.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-05.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Digtal Marketing</span>
@@ -178,7 +183,7 @@
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project branding">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-06.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-06.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Market Research</span>
@@ -190,7 +195,7 @@
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project branding">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-07.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-07.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Business</span>
@@ -202,7 +207,7 @@
         <!-- Start Recent Work -->
         <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic branding">
             <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="./assets/img/services-08.jpg" alt="Card image">
+                <img class="card-img" src="~/assets/img/services-08.jpg" alt="Card image">
                 <div class="service-work-vertical card-img-overlay d-flex align-items-end">
                     <div class="service-work-content text-left text-light">
                         <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Branding</span>
@@ -244,7 +249,7 @@
             <!-- Start Recent Work -->
             <div class="col-md-4 mb-3">
                 <a href="#" class="recent-work card border-0 shadow-lg overflow-hidden">
-                    <img class="recent-work-img card-img" src="./assets/img/recent-work-01.jpg" alt="Card image">
+                    <img class="recent-work-img card-img" src="~/assets/img/recent-work-01.jpg" alt="Card image">
                     <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">Social Media</h3>
@@ -256,7 +261,7 @@
             <!-- Start Recent Work -->
             <div class="col-md-4 mb-3">
                 <a href="#" class="recent-work card border-0 shadow-lg overflow-hidden">
-                    <img class="recent-work-img card-img" src="./assets/img/recent-work-02.jpg" alt="Card image">
+                    <img class="recent-work-img card-img" src="~/assets/img/recent-work-02.jpg" alt="Card image">
                     <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">Web Marketing</h3>
@@ -268,7 +273,7 @@
             <!-- Start Recent Work -->
             <div class="col-md-4 mb-3">
                 <a href="#" class="recent-work card border-0 shadow-lg overflow-hidden">
-                    <img class="recent-work-img card-img" src="./assets/img/recent-work-03.jpg" alt="Card image">
+                    <img class="recent-work-img card-img" src="~/assets/img/recent-work-03.jpg" alt="Card image">
                     <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">R & D</h3>
@@ -280,7 +285,7 @@
             <!-- Start Recent Work -->
             <div class="col-md-4 mb-3">
                 <a href="#" class="recent-work card border-0 shadow-lg overflow-hidden">
-                    <img class="recent-work-img card-img" src="./assets/img/recent-work-04.jpg" alt="Card image">
+                    <img class="recent-work-img card-img" src="~/assets/img/recent-work-04.jpg" alt="Card image">
                     <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">Public Relation</h3>
@@ -292,7 +297,7 @@
             <!-- Start Recent Work -->
             <div class="col-md-4 mb-3">
                 <a href="#" class="recent-work card border-0 shadow-lg overflow-hidden">
-                    <img class="recent-work-img card-img" src="./assets/img/recent-work-05.jpg" alt="Card image">
+                    <img class="recent-work-img card-img" src="~/assets/img/recent-work-05.jpg" alt="Card image">
                     <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">Branding</h3>
@@ -304,7 +309,7 @@
             <!-- Start Recent Work -->
             <div class="col-md-4 mb-3">
                 <a href="#" class="recent-work card border-0 shadow-lg overflow-hidden">
-                    <img class="recent-work-img card-img" src="./assets/img/recent-work-06.jpg" alt="Card image">
+                    <img class="recent-work-img card-img" src="~/assets/img/recent-work-06.jpg" alt="Card image">
                     <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">Creative Design</h3>

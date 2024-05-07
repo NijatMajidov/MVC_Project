@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using PurpleBuzzWebApp.DAL;
 
 namespace PurpleBuzzWebApp
@@ -10,7 +11,7 @@ namespace PurpleBuzzWebApp
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseSqlServer("server=.;database=bb207_Inance;Trusted_connection=true;Integrated security=true;Encrypt=false");
+                opt.UseSqlServer("server=.;database=bb207_Buzz;Trusted_connection=true;Integrated security=true;Encrypt=false");
             });
             var app = builder.Build();
             app.UseStaticFiles();
